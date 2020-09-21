@@ -1,14 +1,17 @@
 body {
   background: pink;
   color: white;
+  font-family: -apple-system, Roboto;
 }
 
 h1 {
   color: tomato;
   text-align:center;
   padding:16px;
+  font-size:36px;
 }
 
 p {
   text-align:center;
+  font-size:18px;
 }
