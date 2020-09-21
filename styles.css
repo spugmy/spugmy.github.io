@@ -1,0 +1,14 @@
+body {
+  background: pink;
+  color: white;
+}
+
+h1 {
+  color: tomato;
+  text-align:center;
+  padding:16px;
+}
+
+p {
+  text-align:center;
+}
